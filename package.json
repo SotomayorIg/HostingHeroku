@@ -1,0 +1,12 @@
+{
+    "name" : "piramide",
+    "version" : "1.0.0",
+    "scripts" : {
+        "start" : "node ejer12.js"
+    },
+    "dependencies" : {
+        "express": "4.13.3"
+    },
+    "author" : "ignacio sotomayor"
+}
+    
